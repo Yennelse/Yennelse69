@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas Shaw",
+  "age": 44,
+  "address": {
+    "street": "Bekuh Avenue",
+    "city": "Enekefun",
+    "state": "VA",
+    "zip": "07398"
+  },
+  "contact": {
+    "phone": "(357) 238-5261",
+    "servicePhone": "800482852"
+  },
+  "birthday": "1967-06-03T03:51:31.604Z",
+  "ip": "183.236.78.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Po cigis doh vodcewjaw rehpep ri dav bagelvi vemud dew ollage buh zetmut vonembu. Duizu leb biono jaghes icteslu hoh ne ob je naloc tug seljew huvan leezu desbuv ru cemola. Ar guivliw go pav godge cikoce piwuwor evu su pormil necaez tertuleca av ab ituvu punec. Ubigag vulba jolo babim holograp wicluik botkep ku hidniepu lema uhizji zeh dahoz lagecog ficuv vudohalam beb ambun. Agina popdehto ji tiw alizubet nitec ifiowi aze nemnat go gebbu hi do gooco. Legec ona caoja cuje se le woluv lu no cesku velgusase vicwow izesildo venuti bevifa nu fisege. Vomhowos nivi cudosza vadusimi egisihgec nooni losole af ji go man cetekpi.",
+    "bio": "Olasil ra wana nelejtiv haefuho tujaz ka wut vasku mac pujvenab gejegup radbozet ora si gi. Mi aresoun ve non ziziif fazadtig hivezeka zojlehsu jemij wirgapeb canwe hepgi ore norpi nav nuv. Ac hopdimo vu wu hilkeh paduh pimpuj od linu soguzo zoc arujvu vacobi gar."
+  },
+  "apiKey": "a6b30ca93dccaacbb77ed7f23c4c75c0ca3231167d352d51f54cf936435995c6",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
