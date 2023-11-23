@@ -1,0 +1,26 @@
+{
+  "name": "Kenneth Lynch",
+  "age": 41,
+  "address": {
+    "street": "Othut Center",
+    "city": "Osahuti",
+    "state": "SD",
+    "zip": "16632"
+  },
+  "contact": {
+    "phone": "(646) 332-1139",
+    "servicePhone": "800177688"
+  },
+  "birthday": "1984-11-20T00:23:37.080Z",
+  "ip": "80.18.106.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Bibjaj dih feneb roc birhonka koow faviufe jigagbu telkum vacgosar ziketpi maur vehhoc kawaca. Nid dibak junzupeje meac tuhelolu uccifni apu luknabap pijwun ehubun rawcag manok. Defawin dik rohu il nipulu ciwega geguk bamujcas kazaktu ruva lokubaj ge ori igi.",
+    "bio": "Jogme igavilo gepira zadpiknib zomte cavbojug viletco udo jetmu suw ze busmidho ama cikeguf tujkezub uk vocis zop. Epu gibdo vob deceri mu ve ned gewto uhnumi go fegi hodnein newnemcow lesweb. Dan dolreoda ku regbu fawurdi torauje buvvu zour dupizbas macu is lav feah folkuwopi icu kuhonji ow favce. Hok mojo fo devza wov pet remosdu lis zofmojsev univovuw ruhodfa keli."
+  },
+  "apiKey": "05a4d3bc0709976217abc571eb86f7681c37ce7628d680cc886efddda213bd70",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
