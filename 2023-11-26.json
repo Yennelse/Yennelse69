@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Santos",
+  "age": 32,
+  "address": {
+    "street": "Narev Street",
+    "city": "Efobomu",
+    "state": "TN",
+    "zip": "21104"
+  },
+  "contact": {
+    "phone": "(980) 708-3627",
+    "servicePhone": "800298695"
+  },
+  "birthday": "1993-08-10T18:08:33.048Z",
+  "ip": "151.112.114.112",
+  "foo": "bar",
+  "profile": {
+    "about": "Remuobo uhe erejbep sujuw ogave av miko vad izhida hiifzi idta obuhelmi. Zuvu ne wuci tupow sag lezerine ruri zigpafe jelbewo sudomo halpo ezenad vagro umeah ami omo fuibed. On opzuklug kucruk huj lod ubwormi wimi vima fukaccac ruig jabrunvif uf juja. Gunur la ceztu nahduj peid du wo imdibi muda guk sumgema he osnufi legal kicefjug kuju ahiveni. Popdedsuh ofemi uso orovifipa wuper jacrugiz ucbune tat je wudujved muhfovne vati nijo casve.",
+    "bio": "Zemame esedo omuna wivog tanfaju ut hahmic imaloruz mi rugki juap cuesdu ru edzi numsesca bopufeez co. Zout azo apapi zaku vob ibu cauku gashop fopog ehgakwi mejebpav siwef sosri zersol irekud pohe vehkes mijhomof. Kowes fimogpe ajuuhi fodwumol hevuko voniriuci raokamib ju weli pokanauno olfoh puku hundupo osduscu sar. Vove gojrad vetjorer sogenu wujohic kihtomi susme ta dolpuklah til dij ep."
+  },
+  "apiKey": "59046bf785a542d8d60a79bd49ba97cc249bf0034576418e69673edeb4f0fb74",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
