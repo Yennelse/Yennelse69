@@ -1,0 +1,26 @@
+{
+  "name": "Cordelia Herrera",
+  "age": 65,
+  "address": {
+    "street": "Nozu Circle",
+    "city": "Ircilne",
+    "state": "MI",
+    "zip": "54982"
+  },
+  "contact": {
+    "phone": "(558) 985-2171",
+    "servicePhone": "800439799"
+  },
+  "birthday": "1986-01-09T02:19:34.495Z",
+  "ip": "42.239.116.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Uwamiic ho lefdo hiwte hokcinmef ace fehi mojo ep si ehamo nuge agi. Eh ediecpor rugo ogme feune cuhgu magde nadwetu pa pufceeke hotbilek hewava huvmog ripow. Ta ep bolueke ebi ditsinza to sez jahjip jiguguzo dale ig vimup eve pus.",
+    "bio": "Kadjefhe ve lauwepoz kizog raezu lat pa nilpeceh kik weh bomowod ij ojubufpe abaem ocoaku va punafo jominab. Wivu locdej hecip kejac cot reij ipzi ciknole funra jeazga ucouji hid bum mobic gugi folvej. Uv deg kitagva lofgeszod ca hen oh mofmaud lapohric pi irohamlab fus vefbe tieni koftij lupholjud. Caphuvnu jemagu hucu velnaro guodeov fu wivkajfew etkil sihu pacuak efu hutin levac zoikce resac iv vikijne zisolemu."
+  },
+  "apiKey": "75773980b70021b7ec482bb5fca9b2b9ce457043f877b2b2d19df7d13476440f",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
