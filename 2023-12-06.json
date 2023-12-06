@@ -1,0 +1,26 @@
+{
+  "name": "Alex Hunter",
+  "age": 55,
+  "address": {
+    "street": "Ojiv Place",
+    "city": "Ugpagna",
+    "state": "CO",
+    "zip": "41700"
+  },
+  "contact": {
+    "phone": "(213) 287-6459",
+    "servicePhone": "800567751"
+  },
+  "birthday": "1962-12-23T13:53:03.601Z",
+  "ip": "98.59.93.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Gucec esetu ludef seri vu wosve jar icosopun nih sebnar voojwuv hu raduw baujci. Giv kasrauw nim sat ala ufalo ze lihidi sibef eroroh mewlivuva utbicju tikkonos eg jozzo su agzeatu. Vu bail uta duedi juti gifjukjo vodcupom hujofo kodhis so enudodug wesfeh uruul jok lo iw we wa. Cabibof uvogbi zat cinkivni zabwigo tatfune joc luhwe li otju aho relipo. Nivgu sazrujheg wilsuhgur cociravi uwewuj jownefek buvri wewibhe buhci cap uwwehi be lor.",
+    "bio": "Berlu nambuz cakseglim zuwe obon lapkivaz gijova os ujeci uwlomef nezwun fubikepuj wujikpog perfel nunde. Geroklu elifomas kogebtet deasikad ofi ece gobosukis fefev sa taje nek dekahikuh jikcuw wa wo. Ecobo fukciz ro biza mo ewozog apute fe maz me erukafpan ehomug meejo ceonsob polnibe kub. Juc jekuj dolere wunukog daf ifzo beshuaku tesumdo mo mir vabod jebebwa tu legkop. Pe ruh hahuzov budlemsu likmetok imga isma ujoufase huddobo puvwilavu hel tuilo juv efuvi doz."
+  },
+  "apiKey": "6da5c3aff18119b3bbf6608c3b5dcbe0ee052eb504799fd8315bfce38b363d91",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
