@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Mann",
+  "age": 31,
+  "address": {
+    "street": "Iricov Lane",
+    "city": "Saukotic",
+    "state": "OK",
+    "zip": "14271"
+  },
+  "contact": {
+    "phone": "(389) 559-5356",
+    "servicePhone": "800619419"
+  },
+  "birthday": "1977-04-23T20:20:48.554Z",
+  "ip": "64.192.90.247",
+  "foo": "bar",
+  "profile": {
+    "about": "Ijihopo vus dotvehez juh vipi wenzo ize laim ju ogijenko tuelo lo dalil. Ki ha zug cowiiju kocfon orouno eh jupo po ami buf hi buriro. Lejitdof lijejbip ezsozdak gobivaf sav ucbabam apedi ul jan rosvi dijidcov mejomim ure ubbujpe toeblap.",
+    "bio": "Cogoh zowtig emnomwo coeba ul zolida ojezuw jibfip jarpawwu bi alwe hicbu ulama tev. Jatdul harmiiku toz wojsolo gilake pel lu likewmop lohis labkuges gemozoot hunso wemlamzi com pofmum lotisfi bucucog. Uk fis fizze wor tolupip kuz wicezubis daloho jikjac esetipuki kazhomhu newjo epuuza rinzemo do. Ohiwuf ontir kuzu dowofja weero une ama azuerotas geon pofa ufoadze hugehsof zedpo."
+  },
+  "apiKey": "aecefafd872047359f1898ea77bf4124b0ccfb78a06aa0ed7a679b6d4e28c58f",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
