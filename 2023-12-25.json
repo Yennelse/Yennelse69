@@ -1,0 +1,26 @@
+{
+  "name": "Christine Ford",
+  "age": 42,
+  "address": {
+    "street": "Zizgeb Ridge",
+    "city": "Kozive",
+    "state": "IN",
+    "zip": "73928"
+  },
+  "contact": {
+    "phone": "(877) 406-9131",
+    "servicePhone": "800511672"
+  },
+  "birthday": "1991-06-01T21:27:10.250Z",
+  "ip": "35.178.138.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Zumwiawe to alraha matu zowrom meba bupjo fa tew bojebec vadew wug as ku se ejpu wes. Akije nuguz fi cajviwda ru idi po rosigawo onuemi gomwopal rug iduug. Zucgohraw jupesmef za jezevwut gukejo lu sutuw erfel wopi weji cujon oka.",
+    "bio": "Kasonfi lucjufpog ifajib ovfarfoz holkicci zelsumih ukouv taca cadzeba oko vedes ofezet mopukzil ejuiwode. Faicgek up tekcebpa oripis pes kibtiz valafveh ci anuoz miri tof padod vitfiper. Tahkaphev pejori tajgor tulohuez iciro irmopmu vug ahapuppir fagnoog zec olaamotim tu dipfuzob ac menpa."
+  },
+  "apiKey": "e8a2fef58afee1b089aa15033ee95047e70fbcbd863f9375aea6b2c43cf16251",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
