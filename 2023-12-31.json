@@ -1,0 +1,26 @@
+{
+  "name": "Bess Shaw",
+  "age": 32,
+  "address": {
+    "street": "Suge Pike",
+    "city": "Cetiele",
+    "state": "AR",
+    "zip": "82561"
+  },
+  "contact": {
+    "phone": "(939) 657-7840",
+    "servicePhone": "800866468"
+  },
+  "birthday": "1978-12-19T23:50:50.966Z",
+  "ip": "131.250.230.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Ote gad fed funriso umnan en moflabra ani baf redatdiz ajo ma. Birhanab soezunuz elehuzfa uga maah aja edjora vusumi joko mecze kac risehwaw cu. Ma fij fig colimioh bal va gi ta lulotutu zokunah irecacluv talaoc zomcehe zuvcu hub mik gi duf.",
+    "bio": "Pulod sazoj vov ge gi ige edifofof jobgel iflum kocmun tojzih hawojme. Pafafbu ca kiwho daimi nuc ja rogwadog faep ca pozaka necticjim guso otveno vitzajec vacufjin hoggenaf. Vesihji waj elohol nu cor umi zusilo fituvuto wo tu fevti zuic ladeha urkisdi egcawuh nukre segira akni."
+  },
+  "apiKey": "4ffcd621e8994354e07e63f867d819dba5acacdc5021a54c82b8b9bb4b8d6640",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
