@@ -1,0 +1,26 @@
+{
+  "name": "Joel Wood",
+  "age": 30,
+  "address": {
+    "street": "Ziki Square",
+    "city": "Cesritlo",
+    "state": "NE",
+    "zip": "72048"
+  },
+  "contact": {
+    "phone": "(415) 435-1865",
+    "servicePhone": "800469371"
+  },
+  "birthday": "1994-02-13T01:29:32.528Z",
+  "ip": "68.91.31.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Duko fegmibbev kiwbo fojavlom kihku bisan pa pag pias ge haevozo ikwegi ti fomcel hin nut cauwa be. Modbehmod gobri zuggetbos mudif an minbo wujcem ju cudrag hurladsi zuafsiw ga nib zopsatgu acpit ojgi kolatu. Todnepe igeje hamu ec ozi coud buju kizho duv ejmeeg nardu cechun senigo. Covitog ocaotnot fahke nopdujak ti rizu icamel bolke ziiwono bajdufla wavkazo gilbopgoz ed ohpozri.",
+    "bio": "Kof eknide hielfag egu ire mi fuh hukez fo ma dovwoza kelicka cocu doc guzfoj. Vusze biejodov ulfej ociohzas to uz jeejme segelre jam ozahu sozodu joet. Cechi davu abo sajvej bini wacta se hetve res nuku rus jaab uj ogu deferri. Are zuf ineutopo noijemi ninevluv nal deohobo iwwi pu cicaruje soowile du izdas rapagok gicnojihi cizo missofine. Wovzud haca fitnalde su icwetbu lersow seg noopa ma fajoare tohe daaba uffoz. Ehdasvi umokusce rodrimag be kec zuzujpej fusenidu pef huf tegosur joni mieru uhelak gofo duagiju ozwabako hahli."
+  },
+  "apiKey": "0fd944aa4de6bb0340cb8cbadef7aafa3ab820d865df07da353d44af34737c21",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
