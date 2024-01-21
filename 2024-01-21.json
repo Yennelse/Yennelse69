@@ -1,0 +1,26 @@
+{
+  "name": "Tommy Jensen",
+  "age": 31,
+  "address": {
+    "street": "Lephog Loop",
+    "city": "Ubavavgu",
+    "state": "OH",
+    "zip": "70090"
+  },
+  "contact": {
+    "phone": "(440) 468-3503",
+    "servicePhone": "800747493"
+  },
+  "birthday": "1984-01-09T17:41:55.966Z",
+  "ip": "207.27.174.92",
+  "foo": "bar",
+  "profile": {
+    "about": "Oni lol lej kilvowzes aka vima inovul mej senim amug hu luwa pi fuwsef tozto ruk. Doz lajbu wewhikdup cu he dew vole vehif joupawul ruslir sevmonib suwkofzi dirmoson mirsumo uwoisiah. Da masvik cav feskaju ete tokappuj cu iro ci wasi pebe husun avureso sufug re.",
+    "bio": "Kedunpeg pus fucbeha ihirubame goja voefakov juhiku holowbu tukka bubucoru bum mezih ev tan ravi. Ferapi cajbam nesowcas orof ockaoh rad souj zit puj wiivwa uneemi ocbaggov lefnur. Avhijwo uku cewhe esdirun hohjen pijseg oklesi iregagzi ge asi zusuc gero nu zojoc bu jijdaz. Las lacna enikaga zi fis nibop uf nu ibwe rikawid ehunohug hizaz."
+  },
+  "apiKey": "b9ee4a2ae3018358d91f62ec9888b8367120a3c9b6d28c01c15a37d4bea3d331",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
