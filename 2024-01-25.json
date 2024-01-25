@@ -1,0 +1,26 @@
+{
+  "name": "Lee Haynes",
+  "age": 61,
+  "address": {
+    "street": "Iznuw Trail",
+    "city": "Sofnahuh",
+    "state": "NV",
+    "zip": "82706"
+  },
+  "contact": {
+    "phone": "(613) 492-8823",
+    "servicePhone": "800412943"
+  },
+  "birthday": "2003-10-14T21:11:48.853Z",
+  "ip": "199.132.187.25",
+  "foo": "bar",
+  "profile": {
+    "about": "Ruv mipco ke fewa witi ubi pov pov zaerafa geju bi vuzupi puime ibuge tir. Bosin otu ijdeho vo jemur ji vishohdu zugalu bani wi sav uj udot ageolhe letma wipuwiku karir cunhe. Ketho cudi ma ino nel uvu ifipiv guz kos jobtap wu ocede jinatu.",
+    "bio": "Verusizo pancudta ochocvig du moiga im wozob nozojiz aku puf kuj ravef fa oca jat ubmokdoz mismol. Hab haemiku bomu okbam nipen lasurcog vole ucipa hizremi kizezev vafbo wep ezo luosmif gehnocda paeh. Dipcof ed gurhin si edisickid gu ru sed beowe dopnud siuwema wizfa jomodsar fi taaseam."
+  },
+  "apiKey": "8e890d7daf5fbcb88aecc5345e95e26e73119f5bed53136dacc84d87c0561e7c",
+  "currency": {
+    "code": "KHR",
+    "name": "Cambodia Riel"
+  }
+}
