@@ -1,0 +1,26 @@
+{
+  "name": "Jordan Mills",
+  "age": 42,
+  "address": {
+    "street": "Ijozo Loop",
+    "city": "Wafbaduf",
+    "state": "CO",
+    "zip": "16701"
+  },
+  "contact": {
+    "phone": "(213) 851-7605",
+    "servicePhone": "800491665"
+  },
+  "birthday": "1961-02-25T17:06:48.012Z",
+  "ip": "7.222.36.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Boedojol hezelep ukira cebub ne ev tanloka wuvuz gojo buzija ka gak gavu kehu vasteduv. Injestu jiwutuger nakteti icre recve zalhev di belwi hanifbi nuv nej ivesajme saz vumazej. Gil luw faluf bal jivarguw iwtof ug tecrihla koeh isajabbop gapvi jiofja sinira jabup. Deguguwev vavduvmig duma ke sasetzo tar fiul cupi wocdesba tuhaf ge hule.",
+    "bio": "Rabif tuhil epror ihu biato biwnavfop farucgod cu bitu lelhoso ulaka ha kitgo wa. Geahwu iso pidiru fuknasus lacu zitdorhof bufpomi ufa ga kohhipfah mu vougved adpof endemdoc. Lok topni rov egko he hu fazpupgek jelufko zana inbo nawru lu."
+  },
+  "apiKey": "6c83ba20c409e035448512d70b55163ea48d8fce68fa572f32e227032d4c9d32",
+  "currency": {
+    "code": "KMF",
+    "name": "Comoros Franc"
+  }
+}
