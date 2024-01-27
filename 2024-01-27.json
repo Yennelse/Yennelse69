@@ -1,0 +1,26 @@
+{
+  "name": "Alan Perez",
+  "age": 19,
+  "address": {
+    "street": "Doav Avenue",
+    "city": "Riedinu",
+    "state": "LA",
+    "zip": "56768"
+  },
+  "contact": {
+    "phone": "(234) 208-4976",
+    "servicePhone": "800561428"
+  },
+  "birthday": "1978-02-12T06:57:51.848Z",
+  "ip": "140.181.127.11",
+  "foo": "bar",
+  "profile": {
+    "about": "Paovu kumuset fen uhovehuv weim sehhi nolma amti wijebwub ef dovi omemiwin ate. Huhimaf tecbucep bi ude jogjiju nemos hefcugifo upu miganta api janwituj mi jaldet zod lor vakeuno viceto. Ohpuf avgi soviktef za zog za ri bongu ledcar jijhot cem la najuclat usdeka. Bonuhpew pod ze ojahukes id zoupop rid zi raakike judrejuh huva naf ewo muvijso kudoz motijtoz. Ufzervuk zan ijlirran as fesa do pefkiupo zat ezugaz gevbej dasra tofdalel di. Fub du puwaj muw jekobli mirnu temep apug gi pa lon kojsadase wa lodotdo ce nebaspu ih.",
+    "bio": "Lotcil ci bo gudup polepgij bucculoh ecamejhal uzukaaki hofo dezmes delinca wa fiicuno gundohki zupuhib ibigael vacjig. Siedje buvaba useztu gopdet punpefnom ritagejar otkerpa rejacew fugihi zulu vahpanti wedaon. Dibis fifi epef tanbudzuc siw ad evujiz cic sudbu pin mubekul zeli. Wenki pumme ak kod fartunlu gitimkag ciuvufe wizaru fi jubeco migus as vamuzo kow betkupcog ruf lucev."
+  },
+  "apiKey": "b6a6cb59dc7bc30f2d5df4c9515e7c83d27b1f2a08e823934d40acae108ab2bf",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
