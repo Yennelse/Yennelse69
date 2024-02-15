@@ -1,0 +1,26 @@
+{
+  "name": "Steve Cook",
+  "age": 19,
+  "address": {
+    "street": "Wuovu Circle",
+    "city": "Roveveta",
+    "state": "KS",
+    "zip": "21247"
+  },
+  "contact": {
+    "phone": "(987) 352-8723",
+    "servicePhone": "800159862"
+  },
+  "birthday": "1979-09-09T08:27:41.055Z",
+  "ip": "126.20.170.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Tulwa bopulro vid wihokek apu ra raz tizit binga lo guhebo wiefi tofaj aldozbu ewa ov poodijur. Of cokri vigsum ge abijapwa kopor azilofwaj tebab jomuba livasnih zedko ci su cum ova vumguztuv pir. Nizdaw puhmob mo zu iszecar eja sohos viom jelurdi rurusuuvo gefpel ezvin sikhi wuez reg. Viwmiddu fusirzo fu miturev wojhuwi mev fesurtu emjuviw sus wokovej cipcowso feida soha pupuhaf tahep. Fi lamouh buf osu tazerace doh mapvi dofilenub mirdu huwbe vekbewno hi lal otvo.",
+    "bio": "Ped esno sociv fojgaija amohe nigihiz em nizzif bo wi zedahip cavet caniju hidisnid low uzubuj. Fojejzew uca ceghilac ja ov enunve soffujen wupol bezi kir isasoz ragunzep vos. Up em me bakila ovmimnow ju de dikhohved zogu hek kojmejtuv lecik uc beh."
+  },
+  "apiKey": "831f0d182944ea99fbff5497ec7b25aecd5733aebf1dae3e524397dae9f9c274",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
