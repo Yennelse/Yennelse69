@@ -1,0 +1,26 @@
+{
+  "name": "Manuel Mendez",
+  "age": 63,
+  "address": {
+    "street": "Awbug Center",
+    "city": "Reujzez",
+    "state": "OR",
+    "zip": "37792"
+  },
+  "contact": {
+    "phone": "(702) 277-9220",
+    "servicePhone": "800318583"
+  },
+  "birthday": "1972-03-26T18:31:13.484Z",
+  "ip": "237.43.64.141",
+  "foo": "bar",
+  "profile": {
+    "about": "Wo locepbi caveg ecdujac ivo hupomiz hejtagkun tu uhoikewe ica zuga ebupaja ozeupuoso jum go enoje. Demu arku gezuvlap damzi hag rugjefu basmod jujzeru kojfese rer zewzeri wu. Sanais nudop gihaprib me degaepi igoructec uzol gim ti ahpoit fakavro wid ojisupiv urkimiw pe.",
+    "bio": "Bewo ulu fikfum micrif do wudfi acizonit vab wo viomi mikzolow vufhulan we haj. Noh pik lovka pumiuv ze jorazwef pirtaki boivnur haticke se ku ic woditog fawes ber sabjivu uca ruul. Ohzi hiob zicpas wois usjuthuc ribaru cen go wet mev muacgek vuvtun ladi."
+  },
+  "apiKey": "2b2d321fc8c1ed1fd389b2723d02faad52db2371716d3a7d4cb367cb62f902c2",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
