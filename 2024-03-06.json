@@ -1,0 +1,26 @@
+{
+  "name": "Frances Jones",
+  "age": 38,
+  "address": {
+    "street": "Ajso Lane",
+    "city": "Mibtukes",
+    "state": "AZ",
+    "zip": "75820"
+  },
+  "contact": {
+    "phone": "(352) 883-3171",
+    "servicePhone": "800388896"
+  },
+  "birthday": "1983-02-25T04:34:46.430Z",
+  "ip": "241.47.239.67",
+  "foo": "bar",
+  "profile": {
+    "about": "Tuw ni wa rewavinoc fezalipa vaco gafom reowura rofhapom dajuza bawamod givigden. Keboci ogoliba eg izijuzdow miwa jite uwoedsug rek zubna pe nunzibam gac. Gejuiji pir kamina dehlava cof zehah ozu nituwe pihagjez cutmokno re if vaddegig vova ro.",
+    "bio": "Sa jerfunkof edaruje ifji mo okvabve cugedi kamli ra gocebe dij rem mimne uvizadin bapfu ob vebuwov mirfet. Uvdogu ol repmeniru ra ifekedwog eba hunuma kob nel pirgu zodwakfoj leh hih cudzah fav. Ir imasa niaztil bakuj okdabwok bulez apcadciz ipkevvon sigaka ehoc ori lu erara wirkoheg nutpab lofpub epohibsan."
+  },
+  "apiKey": "e7e3d4cdf89dbcba2a6579d48148624e1a6c29abded15fc841af1d9dd88bb8f4",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro Member Countries"
+  }
+}
