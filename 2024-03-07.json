@@ -1,0 +1,26 @@
+{
+  "name": "Sara Kelly",
+  "age": 29,
+  "address": {
+    "street": "Vagnap Circle",
+    "city": "Beprofis",
+    "state": "NJ",
+    "zip": "58378"
+  },
+  "contact": {
+    "phone": "(529) 280-5129",
+    "servicePhone": "800972173"
+  },
+  "birthday": "1964-12-25T03:28:04.984Z",
+  "ip": "194.31.124.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Imbigzup ravah kowot ubaegzur tik boboh ruposu cufa kom nukguro edu jalgulga ovukeduw tile. Wuv humecut fo ackazhu ejjegni pon jofnajuce visovom sa if dipalfu rip ug kilkicwe takune ha. Bajo livmunic ji etuadnem vasizema afa umuibuij gazrircuk cof tukod pu zuk.",
+    "bio": "Kis wudwe wekisu imeim koz foaf juv ru ummegivu cuecu cusgowpu tius uncal civoufo. Rowub dileusu baineol pi fen gapibuah gani fosev ronpisa godilho hutocfuf lu behe. Ujnet faizimo copadcu ejo adkapi upwuvadi vowgadni olusi nesdafika ekedajwap fo fumek zoge vebuspo ucakukrip efvame alpuida higab."
+  },
+  "apiKey": "bb3e2d35e16341d5adc288b56a6b036e242795f5420b3ddeb2a901639936679b",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
