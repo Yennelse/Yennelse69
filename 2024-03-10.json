@@ -1,0 +1,26 @@
+{
+  "name": "Anthony Summers",
+  "age": 33,
+  "address": {
+    "street": "Lefam Mill",
+    "city": "Masupa",
+    "state": "ME",
+    "zip": "83143"
+  },
+  "contact": {
+    "phone": "(403) 701-1254",
+    "servicePhone": "800593392"
+  },
+  "birthday": "1965-02-20T02:34:36.975Z",
+  "ip": "20.208.135.185",
+  "foo": "bar",
+  "profile": {
+    "about": "Ub jawo zer vam ki nebjod ora ho nagizla suuveeso zomumal regake kirnek. Hal potovfa avine wi zabo okjo ogtowzo otec so zo paj hisu emuegiera. Do zebpi ivomaav ez wovbi okoibakas tudus tu keuzi cica gifakopu taum sup.",
+    "bio": "Sam maipu kinsi fantuw ri ta ur foako miemlow gu eruraca otazidhu. Siw pulfesfi jujbus womut em ciazome ipo uvluk api hinleovi rutuwfej dorjum ajpa nobasjim radke unuman. Wasoh ecmef zikcemfak difu hardubvoc tumti nefnaftok higawde hecliwi puud jokub gu vucu dohatved er ge zoabahe uv. Bevet wituj ikbione agebi pu joiro sagotili of obu jehwu na bij gup lapofi id. Notvieni utafear inriet kenhu catte toosusod geona pahuphu ubijem ri zitihade jodomo la mer paziwlu. Put fibrikik bamaji tunte zet wi jacewu zogob zuv acaguw pirib fofuhku topi."
+  },
+  "apiKey": "1386847446a3581b2391fff3d4970a4b1303a13d4b802a3ca5dcedea0dfcc00d",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
