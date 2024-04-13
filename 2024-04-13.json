@@ -1,0 +1,26 @@
+{
+  "name": "Bobby Alvarez",
+  "age": 57,
+  "address": {
+    "street": "Fajdi Pike",
+    "city": "Olsose",
+    "state": "ND",
+    "zip": "64481"
+  },
+  "contact": {
+    "phone": "(381) 802-5264",
+    "servicePhone": "800713542"
+  },
+  "birthday": "1986-11-01T00:06:45.448Z",
+  "ip": "146.142.166.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Mis betaj rocvukog lome vo rupupe jari zi jon gunvooze sap etudawco fohzesig tazku hofe akufu minifi zo. Ri ari cu tion wuhcel wu ezozemwa va ke vabsi vihpes joomjom hi. Sel laip ociudhoz suvret zukbumig lapmuka um kuul opifi fet foref orcok.",
+    "bio": "Wumiupa sop olwo tamol zahhe babmah hadwuk giro olu henir linev hod jijcij johiho. Un fohlelij erare zef jutiwerum suzcico ha kopor gob hujoebo mino jucmurhej ak cihta suc hurvo pago tibho. Ner ev ewuod tec uru uvgifkef bum maaccog miguik motimbo losiug apozah ru erobes uhwibje erunanga. Le ota gefeh deb uvbohme fodurbav wuh ruot de uvooga bel diav."
+  },
+  "apiKey": "f55b4aba020ff37075d9021c7337da7bcd1b65449a2c4bc39ef8d73e242db3ba",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
