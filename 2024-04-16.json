@@ -1,0 +1,26 @@
+{
+  "name": "Mary Wilkerson",
+  "age": 18,
+  "address": {
+    "street": "Refi View",
+    "city": "Zotokisi",
+    "state": "AR",
+    "zip": "68300"
+  },
+  "contact": {
+    "phone": "(943) 838-3173",
+    "servicePhone": "800637568"
+  },
+  "birthday": "1959-05-09T21:22:58.643Z",
+  "ip": "17.226.146.146",
+  "foo": "bar",
+  "profile": {
+    "about": "Arzunid benoh wac ineebme cavacle nugrur lato hemuf vo zenate he omfidire. Widro rob van hotuh an dati advocec za mawek fuow goododo utumobja igeci rorweesu ratu ahutuvhog bukekman miisejuw. Komfob iboakaci pijgej mo wir enna upboj citowtop rino bag kupun diszub zejoeji cuwa zo keg. Taj ecelawdow barid ca uwha ki gupenez jilwi wigedi mefon ego su ubowucul.",
+    "bio": "Ha uwupwe ravpo mihise to vef imocerjur empuz tiz umijeri pogezade suguwa cufezbif dawsooh jepo he avrumok. Getej gimje sun ro mosij dagsuce lodnin gechuufu teredap fifhet parinji ruzoz jiir. Fur kizto jevaw jovak ji hothobki hi jod lamas liv kummarno zopci doelilaz wuzubul."
+  },
+  "apiKey": "d9924aeca74fa00b70f87d41527733db9be99a7cc3779e0a659a06c0235a7bac",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}
